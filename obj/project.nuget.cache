@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjTNpHF/1HfU5TmUIH8vrRKARSedKD1sVoD8tqawKNK2gjiQ6WzrJUxWUPSlm95T1Y/v41bplzXIRjHn2RXzgA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Sunbinbin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DocterMain\\DocterMain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunbinbin\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

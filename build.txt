@@ -1,0 +1,6 @@
+displayName = Doctor Gaming
+author = Wesker
+version = 0.4.1
+modReferences = terraguardians, ArknightsMod,
+sortAfter = terraguardians, ArknightsMod,
+hideCode = true

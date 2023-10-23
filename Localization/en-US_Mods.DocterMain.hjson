@@ -1,0 +1,231 @@
+Items: {
+	BlueDigivice: {
+		DisplayName: Blue Digivice
+		Tooltip: ""
+	}
+
+	What: {
+		DisplayName: What
+		Tooltip: ""
+	}
+
+	WJacket: {
+		DisplayName: W Jacket
+		Tooltip: ""
+	}
+
+	WPants: {
+		DisplayName: W Pants
+		Tooltip: ""
+	}
+
+	WDigivice: {
+		DisplayName: W Digivice
+		Tooltip: ""
+	}
+
+	WGrenadelauncher: {
+		DisplayName: W Grenadelauncher
+		Tooltip: ""
+	}
+
+	Nenghat: {
+		DisplayName: Nenghat
+		Tooltip: ""
+	}
+
+	NengJacket: {
+		DisplayName: Neng Jacket
+		Tooltip: ""
+	}
+
+	NengPants: {
+		DisplayName: Neng Pants
+		Tooltip: ""
+	}
+
+	ExusiaiVector: {
+		DisplayName: Exusiai Vector
+		Tooltip: ""
+	}
+
+	ExusiaiDigivice: {
+		DisplayName: Exusiai Digivice
+		Tooltip: ""
+	}
+
+	TexastheOmertosahat: {
+		DisplayName: Texasthe Omertosahat
+		Tooltip: ""
+	}
+
+	TexastheOmertosaJacket: {
+		DisplayName: Texasthe Omertosa Jacket
+		Tooltip: ""
+	}
+
+	TexastheOmertosaPants: {
+		DisplayName: Texasthe Omertosa Pants
+		Tooltip: ""
+	}
+
+	TexastheOmertosaDigivice: {
+		DisplayName: Texasthe Omertosa Digivice
+		Tooltip: ""
+	}
+
+	TexastheOmertosaMedalA: {
+		DisplayName: Texasthe Omertosa Medal A
+		Tooltip: ""
+	}
+
+	Dialogue: {
+		TexastheOmertosa: {
+			Dialogue1: What can I get for you, Doc?
+			Dialogue2: Pro Tip: This is all great stuff worth taking home!
+			Dialogue3: The Procurement Department has everything you need. Take your time.
+			Dialogue4: No questions. I'll only tell you to buy it all!
+			Dialogue5: The Procurement Department can get you anything on the shopping list.
+			Dialogue6: So close, yet so far. You're right in front of me, but I can't afford to buy you.
+		}
+	}
+
+	AIBlueberryDarkChocolate: {
+		DisplayName: A I Blueberry Dark Chocolate
+		Tooltip: ""
+	}
+
+	Surtrhat: {
+		DisplayName: Surtrhat
+		Tooltip: ""
+	}
+
+	SurtrJacket: {
+		DisplayName: Surtr Jacket
+		Tooltip: ""
+	}
+
+	SurtrPants: {
+		DisplayName: Surtr Pants
+		Tooltip: ""
+	}
+
+	SurtrDigivice: {
+		DisplayName: Surtr Digivice
+		Tooltip: ""
+	}
+
+	TexastheOmertosaMedalB: {
+		DisplayName: Texasthe Omertosa Medal B
+		Tooltip: ""
+	}
+
+	WMedalB: {
+		Tooltip: ""
+		DisplayName: W Medal B
+	}
+
+	WMedalA: {
+		Tooltip: ""
+		DisplayName: W Medal A
+	}
+
+	ExusiaiMedalB: {
+		Tooltip: ""
+		DisplayName: Exusiai Medal B
+	}
+
+	ExusiaiMedalA: {
+		Tooltip: ""
+		DisplayName: Exusiai Medal A
+	}
+
+	Nengdress: {
+		DisplayName: Nengdress
+		Tooltip: ""
+	}
+
+	TexastheOmertosadress: {
+		Tooltip: ""
+		DisplayName: Texasthe Omertosadress
+	}
+
+	TexastheOmertosaJacketBack: {
+		DisplayName: Texasthe Omertosa Jacket Back
+		Tooltip: ""
+	}
+
+	ACEDigivice: {
+		DisplayName: A C E Digivice
+		Tooltip: ""
+	}
+
+	Closurehat: {
+		DisplayName: Closurehat
+		Tooltip: ""
+	}
+
+	ClosureJacket: {
+		DisplayName: Closure Jacket
+		Tooltip: ""
+	}
+
+	ClosurePants: {
+		DisplayName: Closure Pants
+		Tooltip: ""
+	}
+
+	ClosureDigivice: {
+		DisplayName: Closure Digivice
+		Tooltip: ""
+	}
+
+	Laevatain: {
+		DisplayName: Laevatain
+		Tooltip: ""
+	}
+
+	Jessicahat: {
+		DisplayName: Jessicahat
+		Tooltip: ""
+	}
+
+	JessicaJacket: {
+		DisplayName: Jessica Jacket
+		Tooltip: ""
+	}
+
+	JessicaPants: {
+		DisplayName: Jessica Pants
+		Tooltip: ""
+	}
+
+	STI2011: {
+		DisplayName: S T I2011
+		Tooltip: ""
+	}
+
+	JessicatheLiberatedMedalA: {
+		DisplayName: Jessicathe Liberated Medal A
+		Tooltip: ""
+	}
+
+	JessicatheLiberatedMedalB: {
+		DisplayName: Jessicathe Liberated Medal B
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	AIBlueberryDarkChocolateProjectile.DisplayName: A I Blueberry Dark Chocolate Projectile
+	LaevatainProj.DisplayName: Laevatain Proj
+}
+
+Keybinds.黄昏.DisplayName: 黄昏
+
+Buffs: {
+	LaevatainBuff: {
+		DisplayName: Laevatain Buff
+		Description: Mods.DocterMain.Buffs.LaevatainBuff.Description
+	}
+}
